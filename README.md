@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/oscard0m/octoherd-script-hello-world/pull/1)
-
 # octoherd-script-hello-world
 
 >
